@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkGsolPRKWU=",
+  "success": true,
+  "projectFilePath": "C:\\Работы студентов\\Laba_9_isrpo\\Laba_9_isrpo\\Laba_9_isrpo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student_02\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\Student_02\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

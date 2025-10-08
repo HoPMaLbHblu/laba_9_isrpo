@@ -1,0 +1,11 @@
+C:\Работы студентов\Laba_9_isrpo\MyClass\bin\Debug\net8.0\MyClass.deps.json
+C:\Работы студентов\Laba_9_isrpo\MyClass\bin\Debug\net8.0\MyClass.dll
+C:\Работы студентов\Laba_9_isrpo\MyClass\bin\Debug\net8.0\MyClass.pdb
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\MyClass.AssemblyInfoInputs.cache
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\MyClass.AssemblyInfo.cs
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\MyClass.dll
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\refint\MyClass.dll
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\MyClass.pdb
+C:\Работы студентов\Laba_9_isrpo\MyClass\obj\Debug\net8.0\ref\MyClass.dll
